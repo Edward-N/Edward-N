@@ -7,3 +7,5 @@
 - 💬  Ask me about Java, HTML, CSS and any tech related stuff.
 - 📫  How to reach me: edwardnguerra@gmail.com
 - ⚡  Fun fact: I enjoy hiking, and listening to music. 
+
+<img src="https://github-readme-stats.vercel.app/api?username=edward-n&show_icons=true&theme=gotham">
